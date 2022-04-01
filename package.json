@@ -27,7 +27,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "image-size": "^0.5.1",
-    "matrix-js-sdk": "^15.1.1",
+    "matrix-js-sdk": "^16.0.1",
     "node-localstorage": "^1.3.0",
     "parent-require": "^1.0.0",
     "request": "^2.79.0"
